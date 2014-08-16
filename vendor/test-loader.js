@@ -9,5 +9,6 @@ function missing(selector) {
 }
 
 require('js/helpers/start-app');
-require('js/integration/integration_tests');
-require('js/unit/unit_tests');
+require('js/integration/accounts_tests');
+//require('js/integration/integration_tests');
+//require('js/unit/unit_tests');
